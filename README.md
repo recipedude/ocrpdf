@@ -29,7 +29,7 @@ Tools and Libraries to Install:
     ```
 
 
-# Venice.ai PDF OCR and Text Extraction Script
+# PDF OCR and Text Extraction Script
 
 This script performs Optical Character Recognition (OCR) on PDF files and can also extract text while preserving the layout using the `pdftotext` command. It supports renaming the original PDF file, deleting the original file after OCR, and outputting only a text file.
 
